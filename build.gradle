@@ -1,0 +1,10 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group = 'me.nighteyes604.npcshops'
+version = '0.1.0'
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:6.0.0-SNAPSHOT'
+}
